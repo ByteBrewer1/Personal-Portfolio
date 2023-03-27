@@ -3,7 +3,7 @@
   <a href="#" target="_blank">Rahul Mistry</a>
 </h2>
 <div align="center">
-  <img alt="Demo" src="images" />
+  <img alt="Demo" src="./images/readme-img.png" />
 </div>
 
 <br/>
