@@ -3,7 +3,7 @@
   <a href="#" target="_blank">Rahul Mistry</a>
 </h2>
 <div align="center">
-  <img alt="Demo" src="./images/readme-img.png" />
+  <img alt="Demo" src="https://github.com/iusenotepadonly/Personal-Portfolio/blob/master/Images/readme-img.png" />
 </div>
 
 <br/>
@@ -20,14 +20,14 @@
 
 <h3 align="center">
     🔹
-    <a href="https://github.com/iusenotepadonly/Portfolio/issues">Report Bug</a> &nbsp; &nbsp;
+    <a href="https://github.com/iusenotepadonly/Personal-Portfolio/issues">Report Bug</a> &nbsp; &nbsp;
     🔹
-    <a href="https://github.com/iusenotepadonly/Portfolio/issues">Request Feature</a>
+    <a href="https://github.com/iusenotepadonly/Personal-Portfolio/issues">Request Feature</a>
 </h3>
 
 ## TL;DR
 
-You can fork this repo to modify and make changes of your own. Please give me proper credit by linking back to [iusenotepadonly](https://github.com/iusenotepadonly/Portfolio). Thanks!
+You can fork this repo to modify and make changes of your own. Please give me proper credit by linking back to [iusenotepadonly](https://github.com/iusenotepadonly/Personal-Portfolio). Thanks!
 
 ## Built With
 
