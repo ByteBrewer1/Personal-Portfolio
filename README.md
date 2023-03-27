@@ -1,9 +1,9 @@
 <h2 align="center">
   Portfolio Website - v1.0<br/>
-  <a href="#" target="_blank">Rahul Mistry</a>
+  <a href="https://rahulmistry-portfolio.netlify.app/" target="_blank">Rahul Mistry</a>
 </h2>
 <div align="center">
-  <img alt="Demo" src="https://github.com/iusenotepadonly/Personal-Portfolio/blob/master/Images/readme-img.png" />
+  <img alt="Demo" href="https://rahulmistry-portfolio.netlify.app/" src="https://github.com/iusenotepadonly/Personal-Portfolio/blob/master/Images/readme-img.png" />
 </div>
 
 <br/>
@@ -32,7 +32,7 @@ You can fork this repo to modify and make changes of your own. Please give me pr
 
 ## Built With
 
-My personal portfolio <a href="#" target="_blank">Rahul Mistry</a> which features some of my github projects as well as my resume and technical skills.<br/>
+My personal portfolio <a href="https://rahulmistry-portfolio.netlify.app/" target="_blank">Rahul Mistry</a> which features some of my github projects as well as my resume and technical skills.<br/>
 
 This project was built using these technologies.
 
