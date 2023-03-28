@@ -10,11 +10,10 @@
 
 <center>
 
-[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com) &nbsp;
-[![forthebadge](https://forthebadge.com/images/badges/made-with-javascript.svg)](https://forthebadge.com) &nbsp;
-[![forthebadge](https://forthebadge.com/images/badges/open-source.svg)](https://forthebadge.com) &nbsp;
+[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](#) &nbsp;
+[![forthebadge](https://forthebadge.com/images/badges/made-with-javascript.svg)](#) &nbsp;
+[![forthebadge](https://forthebadge.com/images/badges/open-source.svg)](#) &nbsp;
 ![GitHub Repo stars](https://img.shields.io/github/stars/iusenotepadonly/Portfolio?color=red&logo=github&style=for-the-badge) &nbsp;
-![GitHub forks](https://img.shields.io/github/forks/iusenotepadonly/Portfolio?color=red&logo=github&style=for-the-badge)
 [![Netlify Status](https://api.netlify.com/api/v1/badges/863a5ee3-ecd4-4ddc-9498-91c4863da352/deploy-status)](https://app.netlify.com/sites/rahulmistry-portfolio/deploys)
 
 </center>
